@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="place_flag">Toggle Flag</string>
+    <string name="restart_game">Restart Game</string>
+    <string name="mine_game_over">You have clicked on a mine! Game over.</string>
+    <string name="flag_game_over">You have placed on an incorrect flag! Game over.</string>
+    <string name="flag_on">Flag mode is on! Touch to place a flag.</string>
+    <string name="flag_off">Flag mode is off! Touch to check a space.</string>
+    <string name="win">Good job, you won!! :D</string>
+</resources>
